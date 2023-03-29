@@ -1,0 +1,30 @@
+#calc{
+	border: 3px rgb(98, 98, 100) ridge;
+	background-color: aliceblue;
+}
+
+/* Set the button style */
+#btn {
+	width: 100%;
+	height: 40px;
+	font-size: 30px;
+}
+
+#btn:hover {
+	background-color: rgb(80, 133, 80);
+}
+
+input[type="button"] {
+	margin: 4px;
+	background-color:green;
+	color: black;
+	border: solid black 2px;
+	width:100%
+}
+
+/* Set input textarea */
+input[type="text"] {
+	background-color:white;
+	border: solid black 2px;
+	width:100%
+}
